@@ -37,10 +37,12 @@ avatar: "/img/avatar-icon.png"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
+3 Colors resources # https://hookagency.com/website-color-schemes
 
-navbar-col: "#FFFF00"
-navbar-text-col: "#FF00FF"
-navbar-children-col: "#00FFFF"
+
+navbar-col: "#FF0000"
+navbar-text-col: "#0000FF"
+navbar-children-col: "#0000FF"
 
 page-col: "##368cbf"  #Ol’ trusty blue: 
 link-col: "#7ebc59" # Accent color green: 
