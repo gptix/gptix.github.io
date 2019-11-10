@@ -20,7 +20,7 @@ baseurl: ""
 
 # --- Navigation bar options --- #
 navbar-links:
-Notes: "notes"
+  Notes: "notes"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
