@@ -19,15 +19,15 @@ description: Data Science, and Possible Improvements to Earth
 baseurl: ""
 
 # --- Navigation bar options --- #
-navbar-links:
-  Data Science: "datascience"
-    - Lambda School : "lambdaschool"
-    - Tools : "dstools"
-    - Languages : "dslanguages"
-  Mycology: "mycology"
-  Molten Salt Reactors: "msr"
-  Functional Porgramming: "functionalprogramming"
-  Hacking / Making : "hackingmaking"
+#navbar-links:
+#  Data Science: "datascience"
+#   - Lambda School : "lambdaschool"
+#    - Tools : "dstools"
+#    - Languages : "dslanguages"
+#  Mycology: "mycology"
+#  Molten Salt Reactors: "msr"
+#  Functional Porgramming: "functionalprogramming"
+#  Hacking / Making : "hackingmaking"
   
   
 # Notes: "notes"
