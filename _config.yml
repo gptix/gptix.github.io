@@ -21,19 +21,19 @@ baseurl: ""
 # --- Navigation bar options --- #
 navbar-links:
   Data Science: "datascience"
-   - Lambda School : "lambdaschool"
+  # - Lambda School: "lambdaschool"
 #   - Tools : "dstools"
 #   - Languages : "dslanguages"
-#  Mycology: "mycology"
-#  Molten Salt Reactors: "msr"
-#  Functional Porgramming: "functionalprogramming"
-#  Hacking / Making : "hackingmaking"
+  Mycology: "mycology"
+  Molten Salt Reactors: "msr"
+  Functional Porgramming: "functionalprogramming"
+  Hacking / Making : "hackingmaking"
   
   
 # Notes: "notes"
 #   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Resources:
+     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
 #   Author's home: "http://deanattali.com"
 
