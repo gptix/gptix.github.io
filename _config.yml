@@ -19,8 +19,8 @@ description: Data Science, and Possible Improvements to Earth
 baseurl: ""
 
 # --- Navigation bar options --- #
-#navbar-links:
-#  Data Science: "datascience"
+navbar-links:
+  Data Science: "datascience"
 #   - Lambda School : "lambdaschool"
 #    - Tools : "dstools"
 #    - Languages : "dslanguages"
