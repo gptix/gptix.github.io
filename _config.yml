@@ -21,9 +21,9 @@ baseurl: ""
 # --- Navigation bar options --- #
 navbar-links:
   Data Science: "datascience"
-#   - Lambda School : "lambdaschool"
-#    - Tools : "dstools"
-#    - Languages : "dslanguages"
+   - Lambda School : "lambdaschool"
+   - Tools : "dstools"
+   - Languages : "dslanguages"
 #  Mycology: "mycology"
 #  Molten Salt Reactors: "msr"
 #  Functional Porgramming: "functionalprogramming"
