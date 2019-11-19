@@ -2,10 +2,8 @@
 
 # Name of website
 title: Jud Taylor's Thoughts
-#title: Bongo Bilford's Website
 
 # Short description of your site
-#description: This is the description Text
 description: Data Science, and Possible Improvements to Earth
 
 # --- Local development options ---
@@ -52,8 +50,8 @@ avatar: "/img/avatar-icon.png"
 # Colors resources # https://hookagency.com/website-color-schemes
 
 
-navbar-col: "#FF0000"
-navbar-text-col: "#0000FF"
+navbar-col: "#182978"
+navbar-text-col: "#FF0000"
 navbar-children-col: "#0000FF"
 
 page-col: "##368cbf"  #Ol’ trusty blue: 
