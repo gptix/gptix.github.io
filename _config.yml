@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Jud Taylor's Thoughts
+title: Jud Taylor
 
 # Short description of your site
 description: Data Science, and Possible Improvements to Earth
@@ -18,8 +18,8 @@ baseurl: ""
 
 # --- Navigation bar options --- #
 navbar-links:
-  Data Science: "datascience"
-  # - Lambda School: "lambdaschool"
+  Data Science:
+    - Lambda School: "lambdaschool"
 #   - Tools : "dstools"
 #   - Languages : "dslanguages"
   Mycology: "mycology"
