@@ -1,8 +1,8 @@
----
+Replace this line with three dashes for this file to be rendered as a post.
 layout: post
 title: Starting a Visualization Project
 subtitle: Two visualizations using plotly
----
+Replace this line with three dashes for this file to be rendered as a post.
 
 As part of a weekly build project for Lambda School, I am creating two visualizations based on data.
 
