@@ -12,4 +12,5 @@ My work is stored at https://github.com/gptix/data-visualization.
 
 A Google Colab notebook for this first visualization is at https://github.com/gptix/data-visualization/Coal_Plant_Bubble_Map.ipynb.
 
-Here is the chart:  https://github.com/gptix/data-visualization/Coal_Plants_US_2018.png
+Here is the chart:  
+![Coal US 2018](https://github.com/gptix/data-visualization/Coal_Plants_US_2018.png){: .center-block :}
