@@ -45,11 +45,11 @@ navbar-text-col: "333333"
 navbar-children-col: "#6688CC"
 
 page-col: "##368cbf"  #Ol’ trusty blue: 
-link-col: "#7ebc59" # Accent color green: 
+link-col: "#FFFFFF" # Accent color green: 
 hover-col: "#33363b"  #Dark Slate: 
 footer-col: "#eaeaea" #Light grey:  
 footer-text-col: "##368cbf"  #Ol’ trusty blue: 
-footer-link-col: "#7ebc59" # Accent color green: 
+footer-link-col: "#FF7777" # Accent color green: 
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
