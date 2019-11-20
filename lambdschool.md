@@ -4,7 +4,7 @@ title: Lambda School
 subtitle: Great Instruction in IT
 ---
 
-I heard about Lambda School a couple of years ago. I was intrigued and excited.
+I heard about [**Lambda School**](http://lambdaschool.com/) a couple of years ago. I was intrigued and excited.
 
 Demand for programmers and other IT professionals is huge and growing. Most college programs fail to instil knowledge and work skills.
 
@@ -22,4 +22,4 @@ Sounds like a recipe for potential pain. But, the ISA:
 
 This completely aligns the interests of the student with the School. Lambda School is very energetic in preparing students to get hired in roles that will support repayment, through a job using skills the student has expressed strong interest in.
 
-I've only been taking the course for a few weeks (Data Science 10, "Go Laser Sharks!"), and am impressed.
+I've only been taking the course for a few weeks (Data Science 10, "*Go Laser Sharks!*"), and am impressed.
