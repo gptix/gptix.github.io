@@ -51,7 +51,7 @@ avatar: "/img/avatar-icon.png"
 
 
 navbar-col: "#182978"
-navbar-text-col: "#FF0000"
+navbar-text-col: "#7F7F7F"
 navbar-children-col: "#0000FF"
 
 page-col: "##368cbf"  #Ol’ trusty blue: 
