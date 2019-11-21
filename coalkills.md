@@ -35,7 +35,7 @@ My question focuses to:
 
 ### How many lives can be saved by replacing coal generation for the United States with nuclear power?
 
-I used information available from the U.S. government. I used data from the U.S. Energy Information Administration, and from the U.S. Environmental Projection Agency. I also used information from the book __Thorium: energy cheaper than coal__ by Robert Hargraves. Links are below.
+I used information available from the U.S. government. I used data from the U.S. Energy Information Administration, and from the U.S. Environmental Projection Agency. I also used information from the book [__Thorium: energy cheaper than coal__](http://www.thoriumenergycheaperthancoal.com/) by Robert Hargraves. Links are below.
 
 I analyzed data using data science tools and techniques, detailed below.
  
@@ -94,37 +94,39 @@ Gordon is a journalist doing fantastic work in producing video content about pro
 - Presentations by principals of companies and organizations supporting a peaceful, fission future
 - Related science and technology
 - Discussions related to relevant advocacy and critique
-https://www.patreon.com/thorium
-https://www.youtube.com/user/gordonmcdowell
-http://gordonmcdowell.com/
+
+[https://www.patreon.com/thorium](https://www.patreon.com/thorium)
+
+[https://www.youtube.com/user/gordonmcdowell](https://www.youtube.com/user/gordonmcdowell)
+
+[http://gordonmcdowell.com/](http://gordonmcdowell.com/)
 
 ### Exciting Companies and Organizations
 I think the companies most likely to succeed soon in commercializing molten salt reactors are
-- **Terrestrial Energy** - https://www.terrestrialenergy.com/
-- **ThorCon** - http://thorconpower.com/
+- **Terrestrial Energy** - [https://www.terrestrialenergy.com/](https://www.terrestrialenergy.com/) 
+- **ThorCon** - [http://thorconpower.com/](http://thorconpower.com/)
 
 I think these are most likely to get there first because they have chosen to pursue molten salt without concentrating on use of thorium as fuel (I know, fertile not fissile).
 
 **Flibe Energy**, led by Kirk Sorensen, is concentrating on designing and building a Liquid Fluoride Thorium Reactor (LFTR). Use of thorium, rather than uranium, as fuel allow for a further reduction in waste, and higher production of very valuable medical (nad other-purposed) isotopes.
-https://flibe-energy.com/
-
+[https://flibe-energy.com/](https://flibe-energy.com/)
 
 **Thorium Energy Alliance**, led by John Kutsch, organizes conferences and provides information about MSR's, and also about the rare earths industry.
-http://thoriumenergyalliance.com
+[http://thoriumenergyalliance.com](http://thoriumenergyalliance.com)
 
 ## Data Sources
 ### EIA
-- https://www.eia.gov/
+- [https://www.eia.gov/](https://www.eia.gov/)
 
-specifically Form EIA-923, available at https://www.eia.gov/electricity/data/eia923/
+specifically Form EIA-923, available at [https://www.eia.gov/electricity/data/eia923/](https://www.eia.gov/electricity/data/eia923/)
 
 ### EPA
 
 ### Thorium: energy cheaper than coal
-http://www.thoriumenergycheaperthancoal.com/
+[http://www.thoriumenergycheaperthancoal.com/](http://www.thoriumenergycheaperthancoal.com/)
 
 
-### My website: https://gptix.github.io
+### My website: [https://gptix.github.io](https://gptix.github.io)
 Specifically, more discusion about work behind this essay: 
 
 ### Tools
@@ -138,4 +140,4 @@ A school training highly competent IT professionals.
 
 Their use of an Income Sharing Agreement radically aligns Lambda School's interests with those of its students.
 
-https://lambdaschool.com/
+[https://lambdaschool.com/](https://lambdaschool.com/)
