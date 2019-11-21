@@ -53,7 +53,7 @@ I examined only the emissions into the atmosphere, and modeled existing damages,
 
 Coal plants vary in the mount of coal they burn. They are clustered near rivers and the ocean.
 
-<Image 1>
+![Chart Screenshot](https://raw.githubusercontent.com/gptix/data-visualization/master/Coal_Plants_US_2018.png)
 
 ### Airborne Pollution form Coal Kills Thousands of Americans Each Year.
 
