@@ -108,7 +108,7 @@ I think the companies most likely to succeed soon in commercializing molten salt
 
 I think these are most likely to get there first because they have chosen to pursue molten salt without concentrating on use of thorium as fuel (I know, fertile not fissile).
 
-**Flibe Energy**, led by Kirk Sorensen, is concentrating on designing and building a Liquid Fluoride Thorium Reactor (LFTR). Use of thorium, rather than uranium, as fuel allow for a further reduction in waste, and higher production of very valuable medical (nad other-purposed) isotopes.
+**Flibe Energy**, led by Kirk Sorensen, is concentrating on designing and building a Liquid Fluoride Thorium Reactor (LFTR). Use of thorium, rather than uranium, as fuel allow for a further reduction in waste, and higher production of very valuable medical (and other-purposed) isotopes.
 [https://flibe-energy.com/](https://flibe-energy.com/)
 
 **Thorium Energy Alliance**, led by John Kutsch, organizes conferences and provides information about MSR's, and also about the rare earths industry.
