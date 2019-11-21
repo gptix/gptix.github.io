@@ -13,8 +13,7 @@ Use of coal for generation of power has drawbacks. Mining damages our environmen
 
 Humanity continues to grow in population, and wants to eliminate poverty. Much more electrical power must be generated. Despite coal's drawbacks, huge amounts of coal power plant are being built. 
 
-Environmental and health costs of coal are ingored paritally or completely, so coal is viewed as the least expensive alternative for
-new power plant.
+Environmental and health costs of coal are ignored partially or completely, so coal is viewed as the least expensive alternative for new power plant.
 
 ### How Much Better Can We Make It?
 
@@ -25,11 +24,11 @@ Given time constraints, I have limited investigation:
 - I use only calculations about airborne pollution.
 - I assume coal generation will be replaced with nuclear power.
 
-Conclusions based on information on the United States can probably be generalized to the entire earth in a strightforward manner.
+Conclusions based on information on the United States can probably be generalized to the entire earth in a straightforward manner.
 
 Health costs from waterborne pollution, and environmental costs, can be modeled using data sets outside my investigation.
 
-Other replacements for coal (e.g, natural gas) have different costs, benefits, and drawbacks. Modeling these is more complicated.
+Other replacements for coal (e.g., natural gas) have different costs, benefits, and drawbacks. Modeling these is more complicated.
 
 My question focuses to:
 
@@ -47,7 +46,7 @@ Coal-based generation of power has been a great benefit to mankind. But, burning
 These include damage to ecosystems, heat and material pollution into waters, and emission of harmful gases and material into the atmosphere.
 
 ### Air Pollution from Coal is Well Studied.
-I examined only the emissions into the atmosphere, and modeled existing damages, which will be eliminated when coal-based generation is replaced. I model replacment using nuclear power, which completely eliminates release of pollutants.
+I examined only the emissions into the atmosphere, and modeled existing damages, which will be eliminated when coal-based generation is replaced. I model replacement using nuclear power, which completely eliminates release of pollutants.
 
 ### Coal Power Plants Span the United States.
 
@@ -63,7 +62,7 @@ Coal also damages our ecology and pollutes land and water. But, focusing on rela
 
 ### Nuclear Power Plants Emit Zero Pollutants.
 
-In fact, coal plants emit, as part of hteir airborne pollution, hugely more radiation than nuclear power plants.
+In fact, coal plants emit, as part of their airborne pollution, hugely more radiation than nuclear power plants.
 
 <Image 3>
 
@@ -79,11 +78,11 @@ I will search for more granular data about emissions of individual plants and pr
 
 **What other damages does coal inflict?**
 
-I have not investigated health costs of mining and transporting coal, nor health costs related to coal ash and material released into waters. I suspect these costs are subsstantial, and strengthen argument for removing coal power plant.
+I have not investigated health costs of mining and transporting coal, nor health costs related to coal ash and material released into waters. I suspect these costs are substantial, and strengthen argument for removing coal power plant.
 
-**How do other replacments measure up?**
+**How do other replacements measure up?**
 
-Natural gas plants are a common replacement for coal plants. Natual gas plants produce very little carbon dioxide or pollutants. However, substantial methane is released during production and transport. Methane is a greenhouse gas, so use of natural gas to generate electrical power involves release of greenhouse gas into the atmosphere.
+Natural gas plants are a common replacement for coal plants. Natural gas plants produce very little carbon dioxide or pollutants. However, substantial methane is released during production and transport. Methane is a greenhouse gas, so use of natural gas to generate electrical power involves release of greenhouse gas into the atmosphere.
 
 ---
 ## Further Resources
@@ -127,13 +126,13 @@ specifically Form EIA-923, available at [https://www.eia.gov/electricity/data/ei
 
 
 ### My website: [https://gptix.github.io](https://gptix.github.io)
-Specifically, more discusion about work behind this essay: 
+Specifically, more discussion about work behind this essay: 
 
 ### Tools
-- Python3 - Language used to create, manipulate, and build visuZliations of data.
+- Python3 - Language used to create, manipulate, and build visuzliations of data.
 - Libraries - Numpy, Pandas, Seaborn, Plotly
 - Google Colab - Jupyter notebooks that can be used to code and explore. Many useful libraries available. Links to Github.
-- Github - provides repository space and organization to store and make avaiable code and assets.
+- Github - provides repository space and organization to store and make available code and assets.
 
 ### Lambda School
 A school training highly competent IT professionals. 
