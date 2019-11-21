@@ -5,7 +5,7 @@ title: Coal Kills
 subtitle: America Should Go Fission!
 ---
 
-Student research question is 
+Student research question is:
 concise, 
 direct, and 
 practical. 
