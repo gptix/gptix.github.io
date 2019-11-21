@@ -1,4 +1,10 @@
 
+---
+layout: page
+title: Coal Kills
+subtitle: America Should Go Fission!
+---
+
 Student research question is 
 concise, 
 direct, and 
