@@ -54,7 +54,7 @@ Coal plants vary in the mount of coal they burn. They are clustered near rivers 
 
 ![Chart Screenshot](https://raw.githubusercontent.com/gptix/data-visualization/master/Coal_Plants_US_2018.png)
 
-### Airborne Pollution form Coal Kills Thousands of Americans Each Year.
+### Airborne pollution from coal kills thousands of Americans each year.
 
 Coal also damages our ecology and pollutes land and water. But, focusing on related air pollution, coal kills thousands in the United States every year.
 
