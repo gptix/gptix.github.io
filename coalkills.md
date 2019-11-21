@@ -9,7 +9,7 @@ subtitle: America Should Go Fission!
 
 Use of coal for generation of power has drawbacks. Mining damages our environment. Transportation of coal to power plants is expensive. Ash byproduct must be stored.
 
-### Humanity will need (and will get) much more electrial power.
+### Humanity will need (and will get) much more electrical power.
 
 Humanity continues to grow in population, and wants to eliminate poverty. Much more electrical power must be generated. Despite coal's drawbacks, huge amounts of coal power plant are being built. 
 
