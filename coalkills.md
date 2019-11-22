@@ -75,9 +75,10 @@ The sooner we move from coal as a power source, the sooner we will save thousand
 
 ### Prioritizing Removal by Efficiency of Plant
 Assuming that health detriments are related directly to the amount of fuel burned, less efficient plants should be converted to nuclear earlier.
+
 By plotting calculating an efficiency metric (power output / fuel consumed), then plotting this versus power output, it becomes clear that less efficient power plants are smaller in power output.
 
-
+![Efficiency by Power Output](https://raw.githubusercontent.com/gptix/data-visualization/master/count_by_fuel_tons.png)
 
 
 ### Related Follow-on Questions
