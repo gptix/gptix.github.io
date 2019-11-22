@@ -78,7 +78,7 @@ Assuming that health detriments are related directly to the amount of fuel burne
 
 By plotting calculating an efficiency metric (power output / fuel consumed), then plotting this versus power output, it becomes clear that less efficient power plants are smaller in power output.
 
-![Efficiency by Power Output](https://raw.githubusercontent.com/gptix/data-visualization/master/count_by_fuel_tons.png)
+![Efficiency by Power Output](https://raw.githubusercontent.com/gptix/data-visualization/master/scatter_efficiency_by_power.png)
 
 
 ### Related Follow-on Questions
