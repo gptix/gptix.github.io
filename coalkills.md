@@ -50,21 +50,25 @@ I examined only the emissions into the atmosphere, and modeled existing damages,
 
 ### Coal Power Plants Span the United States.
 
-Coal plants vary in the mount of coal they burn. They are clustered near rivers and the ocean.
+Coal plants vary in the mount of coal they burn. They are clustered near rivers and the ocean. These should all be replaced with nuclear reactors, which release no toxins into air or water.
 
 ![Chart Screenshot](https://raw.githubusercontent.com/gptix/data-visualization/master/Coal_Plants_US_2018.png)
+
+### Most coal plants use Less than one million tons of coal per year.
+
+Currently, the fourth generation of commerial nuclear reactors is being designed. There is a variety of promising concepts. One commonality is that potential producers plan to build reactors that can be scaled from small (~200MWh (electric)) to large. 
+
+Replacement of coal plant should begin with coal plants that are smaller, as they are likely less efficient in terms of power produced per amount of pollution.
+
+![Count of Plants by Fuel Tons](https://raw.githubusercontent.com/gptix/data-visualization/master/count_by_fuel_tons.png)
 
 ### Airborne pollution from coal kills thousands of Americans each year.
 
 Coal also damages our ecology and pollutes land and water. But, focusing on related air pollution, coal kills thousands in the United States every year.
 
-<Image 2>
-
 ### Nuclear Power Plants Emit Zero Pollutants.
 
 In fact, coal plants emit, as part of their airborne pollution, hugely more radiation than nuclear power plants.
-
-<Image 3>
 
 ### Faster is Much Better.
 
@@ -118,8 +122,6 @@ I think these are most likely to get there first because they have chosen to pur
 - [https://www.eia.gov/](https://www.eia.gov/)
 
 specifically Form EIA-923, available at [https://www.eia.gov/electricity/data/eia923/](https://www.eia.gov/electricity/data/eia923/)
-
-### EPA
 
 ### Thorium: energy cheaper than coal
 [http://www.thoriumenergycheaperthancoal.com/](http://www.thoriumenergycheaperthancoal.com/)
