@@ -4,6 +4,7 @@ title: Coal Kills
 subtitle: America Should Go Fission!
 ---
 # Coal Kills. America Should Go Fission.
+Specifically, coal power plants should be replaced with small molten salt reactors (MSR’s).
 
 ## Drawbacks of Coal
 
@@ -34,11 +35,9 @@ My question focuses to:
 
 ### How many lives can be saved by replacing coal generation for the United States with nuclear power?
 
-I used information available from the U.S. government. I used data from the U.S. Energy Information Administration, and from the U.S. Environmental Projection Agency. I also used information from the book [__Thorium: energy cheaper than coal__](http://www.thoriumenergycheaperthancoal.com/) by Robert Hargraves. Links are below.
-
-I analyzed data using data science tools and techniques, detailed below.
- 
-* Discussion of findings
+Currently, it is estimated that air pollution from coal power causes thousands of deaths per year.
+Clearly, the sooner we start, and the faster we finish, the more lives we can save. Every year we delay starting costs these thousands of lives. Every year we spend partially completing the phaseout costs some fraction of those thousands of lives.
+This does not count deaths due to waterborne pollution or leeching of toxins from ash or sludge byproducts of burning fuel.
 
 ### Burning Coal Releases Harmful Pollution.
 Coal-based generation of power has been a great benefit to mankind. But, burning coal has inevitable, baneful, effects on the environment and humans. 
@@ -54,7 +53,7 @@ Coal plants vary in the mount of coal they burn. They are clustered near rivers 
 
 ![Chart Screenshot](https://raw.githubusercontent.com/gptix/data-visualization/master/Coal_Plants_US_2018.png)
 
-### Most coal plants use Less than one million tons of coal per year.
+### Most coal plants use less than one million tons of coal per year.
 
 Currently, the fourth generation of commerial nuclear reactors is being designed. There is a variety of promising concepts. One commonality is that potential producers plan to build reactors that can be scaled from small (~200MWh (electric)) to large. 
 
@@ -108,6 +107,7 @@ Gordon is a journalist doing fantastic work in producing video content about pro
 I think the companies most likely to succeed soon in commercializing molten salt reactors are
 - **Terrestrial Energy** - [https://www.terrestrialenergy.com/](https://www.terrestrialenergy.com/) 
 - **ThorCon** - [http://thorconpower.com/](http://thorconpower.com/)
+- **Elysium Industries** - [https://www.elysiumindustries.com/](https://www.elysiumindustries.com/)
 
 I think these are most likely to get there first because they have chosen to pursue molten salt without concentrating on use of thorium as fuel (I know, fertile not fissile).
 
@@ -127,8 +127,7 @@ specifically Form EIA-923, available at [https://www.eia.gov/electricity/data/ei
 [http://www.thoriumenergycheaperthancoal.com/](http://www.thoriumenergycheaperthancoal.com/)
 
 
-### My website: [https://gptix.github.io](https://gptix.github.io)
-Specifically, more discussion about work behind this essay: 
+### My first essay at Medium: [https://medium.com/@jud.taylor/coal-kills-52de7d9c863b](https://medium.com/@jud.taylor/coal-kills-52de7d9c863b)
 
 ### Tools
 - Python3 - Language used to create, manipulate, and build visuzliations of data.
