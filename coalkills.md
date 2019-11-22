@@ -73,6 +73,13 @@ In fact, coal plants emit, as part of their airborne pollution, hugely more radi
 
 The sooner we move from coal as a power source, the sooner we will save thousands of lives. Every year we have not stopped using coal power, humans are killed by coal air pollution.
 
+### Prioritizing Removal by Efficiency of Plant
+Assuming that health detriments are related directly to the amount of fuel burned, less efficient plants should be converted to nuclear earlier.
+By plotting calculating an efficiency metric (power output / fuel consumed), then plotting this versus power output, it becomes clear that less efficient power plants are smaller in power output.
+
+
+
+
 ### Related Follow-on Questions
 
 **What differences between power plants exist?**
