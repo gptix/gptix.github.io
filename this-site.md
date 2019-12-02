@@ -9,3 +9,5 @@ This site uses beautiful Jekyll.
 - Add prelude to file so that the page will show up.
 - Pull changes to local copy of repo.
 - [ ] test finding this without menu structure.
+
+Great site: https://chrisalbon.com/
