@@ -1,3 +1,5 @@
+#Hy, Python, Data Science, and Metaprogramming
+
 Hy is an interesting language that can be used by Pythonistas to simplify work in data science.
 
 Hy supports coding in a Lisp-y (don't be scared!) syntax, and Hy produces real python code.
