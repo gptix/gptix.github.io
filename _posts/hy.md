@@ -1,3 +1,9 @@
+---
+layout: post
+title: Meta with Hy and Python
+subtitle: Meta Makes it Betta!
+---
+
 # Hy, Python, Data Science, and Meta-programming
 
 **Hy** is an interesting language that can be used by Pythonistas to simplify work in data science.
