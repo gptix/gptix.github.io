@@ -54,6 +54,11 @@ NB: Whether to use training data or validation data or combination is not curren
 
 [Explanatory animation](https://youtu.be/5h8BWAPar0k?t=1547)
 
+On the animation, lines joining points of a color are ICE curves (Individual Conditional Expenctation).
+
+[PDP with one feature](https://youtu.be/5h8BWAPar0k?t=1857)
+
+
 
 
 
