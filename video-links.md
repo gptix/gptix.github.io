@@ -14,7 +14,7 @@ SHAP plots help explain individual predictions
 Coefficients from linear models can be used to generate these.
 
 
-[Intro]("https://youtu.be/5h8BWAPar0k?t=10")
+[Intro](https://youtu.be/5h8BWAPar0k?t=10)
 
 
 # Links to cool points
