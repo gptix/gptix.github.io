@@ -64,5 +64,5 @@ On the animation, lines joining points of a color are ICE curves (Individual Con
   - pdp\_isolate\_ and 
   - pdp_plot
 
-
+[Instructions for Build Week](https://youtu.be/5h8BWAPar0k?t=2308)
 
