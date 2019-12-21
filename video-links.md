@@ -58,7 +58,11 @@ On the animation, lines joining points of a color are ICE curves (Individual Con
 
 [PDP with one feature](https://youtu.be/5h8BWAPar0k?t=1857)
 
+- module pdpbox.pdp
 
+- functions 
+  - pdp\_isolate\_ and 
+  - pdp_plot
 
 
 
