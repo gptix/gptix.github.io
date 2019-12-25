@@ -4,7 +4,7 @@ title: Functional Programming
 subtitle: Why not program right?
 ---
 
-Everyone knows I like programming.
+Everyone knows I like programming a lot.
 
 And, if one is to program, why not do it properly?
 
