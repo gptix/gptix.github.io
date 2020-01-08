@@ -84,6 +84,12 @@ F1 score: single metric that combines recall and precision using the harmonic me
 
 `df.['columnname'].str.lower()`
 
+* Populate a column with booleans based on whether another column contains a string
+
+`df['newcolumn'] = df['examinedcolumn'].str.contains('string')`
+
+
+
 
 Goals:
 

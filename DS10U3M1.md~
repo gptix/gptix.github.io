@@ -44,45 +44,18 @@ How many classes do I have?
 
 * For classification problems:
 
-`y.unique()` - returns list of unique values - ['red', 'blue', 'purple']
+`y.nunique()`
 
-`y.nunique()` - gives count of unique values = 3
-
-`y.value_counts()` - gives counts of values
-
+`y.value_counts()` - gives counts 
 `y.value_counts(normalize=True)` - gives counts as proportion of all
-
 `y.value_counts(normalize=True).max()` - gives count as proportion of all of only the max
 
 
-* Precision vs. Recall
-
-**Accuracy** - percentage of correct predictions (of all predictions)
-
-**Precision** - TP / (TP + FP)
-
-Precision: ability of a classification model to return only relevant instances
 
 
-
-**Recall (also True Positive Rate)** - TP / (TP + FN)
-
-The ability of a classification model to identify all relevant instances
-
-
-
-
-**False Positive Rate** - FP / (FP + TN)
-
-
-F1 score: single metric that combines recall and precision using the harmonic mean
 
 [Regression vs. Classification](https://youtu.be/-6s2srZT4j0?t=675)
 
-
-* Convert all strings to lower case
-
-`df.['columnname'].str.lower()`
 
 
 Goals:
