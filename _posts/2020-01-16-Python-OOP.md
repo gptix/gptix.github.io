@@ -122,8 +122,7 @@ Class ScaryAnimal(eye_count, has_fangs):
     def __init__(self):
 	self.eye_count = eye_count
 	self.has_fangs = has_fangs
-		
-		# boo
+	
 ```
 
 
