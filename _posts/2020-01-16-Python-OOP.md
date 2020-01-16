@@ -121,8 +121,10 @@ If we want to specify, at the time we create a new object, the value of some att
 Class ScaryAnimal(eye_count, has_fangs):
      
     def __init__(self):
-        self.eye_count = eye_count
+	    self.eye_count = eye_count
 		self.has_fangs = has_fangs
+		
+		# boo
 ```
 
 
