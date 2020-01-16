@@ -119,20 +119,60 @@ If we want to specify, at the time we create a new object, the value of some att
 
 ```
 Class ScaryAnimal(eye_count, has_fangs):
+
     def __init__(self):
-	self.eye_count = eye_count
-	self.has_fangs = has_fangs
+        self.eye_count = eye_count
+	    self.has_fangs = has_fangs
 	
 ```
 
+note that the names of the parameters in
+```
+Class ScaryAnimal(eye_count, has_fangs):
+```
+and the names used on the **right** side of assignments like
 
+```
+	    self.eye_count = eye_count
+```
 
-### Attributes
+do need to match, because they are references to the value passed (like **True** for **has_fangs**), but these do not precisely have to match the name of the **attribute** on the left side of the assignment. 
 
-An attribute of an object is a variable specific to that exact instance of an object
+**ALSO NOTE** that they conventionally do.
+
+This would work, but would be silly:
+```
+Class ScaryAnimal(darth, leia):
+
+    def __init__(self):
+	    self.eye_count = darth
+        self.has_fangs = leia
+	
+```
+
+# Editing below here
+
 
 ### Methods
 
+**Methods** are functions for changing or using values held in attributes. They are specified as part of the **class** definition, and so apply to every instance of that class.
+
+
+```
+    def defang(self):
+        self.has_fangs = False
+		
+    def poke_eye_out(self):
+	    self.eye_count = self.eye_count - 1
+```
+
+One of these might be called like this:
+
+```
+>>> my_critter = ScaryAnimal(6, True)
+>>> my_critter.
+
+**Note** methods are often used to manage values for an object after it is instantiated. We might give an account object a nice balance when we create a new account (object), then use methods to 
 ### Overriding
 
 ## Making more specific classes
