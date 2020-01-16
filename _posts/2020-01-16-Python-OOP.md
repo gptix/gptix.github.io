@@ -98,7 +98,7 @@ We can make ('instantiate') one (at the REPL, or in stored code)
 
 This is a **method** that is used to make an instance according to a blueprint. The double underscores are used to indicate that the method is *special*.
 
-Python, when making a new object, automatically looks for a method named ```__init__``` inside that class's definition.
+Python, when making a new object, automatically looks for a method named ```__init__``` inside that class' definition.
 
 We will add, inside the definition of the class, code like this:
 
@@ -113,7 +113,23 @@ Class ScaryAnimal:
 
 Our code is pretty simple, since we have no information about anything that is specific to this new object. 
 
+### Specifying Values for Attributes of New Objects
+
+If we want to specify, at the time we create a new object, the value of some attribute of the new object (e.g., eye_count = 8, or has_fangs = True) we can identify the **parameters** we must pass when instantiating this class.
+
+```
+Class ScaryAnimal(eye_count, has_fangs):
+     
+    def __init__(self):
+        self.eye_count = eye_count
+		self.has_fangs = has_fangs
+```
+
+
+
 ### Attributes
+
+An attribute of an object is a variable specific to that exact instance of an object
 
 ### Methods
 
