@@ -78,7 +78,7 @@ Class ScaryAnimal:
 We can make ('instantiate') one (at the REPL, or in stored code)
 
 ```
->>> my_first_monster = ScaryAnimal() # make me a scary animal, and store that in the variable 'my_first_animal'
+>>> my_first_monster = ScaryAnimal() # make me a scary animal, and store that in the variable 'my_first_monster'
 >>> my_first_monster # let's see what Python thinks my_first_monster is
 <__main__.ScaryAnimal object at 0x7fef14a46410>
 ```
@@ -94,6 +94,24 @@ We can make ('instantiate') one (at the REPL, or in stored code)
 ### Parameters
 
 ### ```__init__```
+
+
+This is a **method** that is used to make an instance according to a blueprint. The double underscores are used to indicate that the method is *special*.
+
+Python, when making a new object, automatically looks for a method named ```__init__``` inside that class's definition.
+
+We will add, inside the definition of the class, code like this:
+
+```
+Class ScaryAnimal:
+     
+    def __init__(self):
+        print("A new scary animal arises!.")
+```
+
+**self** is used to refer to the new object we are building, so we can use Python code to manipulate that new object.
+
+Our code is pretty simple, since we have no information about anything that is specific to this new object. 
 
 ### Attributes
 
