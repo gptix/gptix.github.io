@@ -13,13 +13,16 @@ Generally, computers take data as input, follow algorithms, and produce data as 
 Generally, data must be held for a while during execution of the algorithm. Python uses variables to store data.
 
 ```
-foo = 7
+>>> foo = 7
+>>>
+>>> foo
+7
 ```
 
 ## Data Types
 Data comes in a number of types:
 
-### Atomic (can't be taken apart into smaller parts)
+### Atomic (can't be split into smaller parts)
 
 ```
 foo = 7    # integer
@@ -96,9 +99,9 @@ We can make ('instantiate') one (at the REPL, or in stored code)
 ### ```__init__```
 
 
-This is a **method** that is used to make an instance according to a blueprint. The double underscores are used to indicate that the method is *special*.
+This is a **method** that is used to make an instance according to a blueprint. The double underscores are used to indicate that the method is *special*. Do not (unless you really need to, and you will know) name things with double-underscores leading or trailing.
 
-Python, when making a new object, automatically looks for a method named ```__init__``` inside that class' definition.
+Python, when making a new object, automatically looks for a method named ```__init__``` inside that class' definition. then, Python runs that method.
 
 We will add, inside the definition of the class, code like this:
 
@@ -117,8 +120,11 @@ Our code is pretty simple, since we have no information about anything that is s
 
 If we want to specify, at the time we create a new object, the value of some attribute of the new object (e.g., eye_count = 8, or has_fangs = True) we can identify the **parameters** we must pass when instantiating this class.
 
+
+**Note: my notes a couple of hours ago mistakenly had parameters in parentheses just after the class name. Wrong.**
+
 ```
-Class ScaryAnimal(eye_count, has_fangs):
+class ScaryAnimal:
 
     def __init__(self):
         self.eye_count = eye_count
@@ -126,28 +132,30 @@ Class ScaryAnimal(eye_count, has_fangs):
 	
 ```
 
-note that the names of the parameters in
-```
-Class ScaryAnimal(eye_count, has_fangs):
-```
-and the names used on the **right** side of assignments like
+**Note** the names of the parameters on the **right** side of assignments like
 
 ```
 	    self.eye_count = eye_count
 ```
 
-do need to match, because they are references to the value passed (like **True** for **has_fangs**), but these do not precisely have to match the name of the **attribute** on the left side of the assignment. 
+do not need to match the names of the **attributes** on the left side.
 
 **ALSO NOTE** that they conventionally do.
 
 This would work, but would be silly:
 ```
-Class ScaryAnimal(darth, leia):
+class ScaryAnimalOdd:
 
-    def __init__(self):
+    def __init__(self, darth, leia):
 	    self.eye_count = darth
         self.has_fangs = leia
 	
+```
+at a REPL
+```
+>>> critter_2 = ScaryAnimalOdd(3, False)
+>>> critter_2.eye_count
+3
 ```
 
 # Editing below here
@@ -163,14 +171,19 @@ Class ScaryAnimal(darth, leia):
         self.has_fangs = False
 		
     def poke_eye_out(self):
-	    self.eye_count = self.eye_count - 1
+        self.eye_count = self.eye_count - 1
 ```
 
 One of these might be called like this:
 
 ```
 >>> my_critter = ScaryAnimal(6, True)
->>> my_critter.
+>>> my_critter.eye_count # no parens, so we want to learn about the **attribute** 'eye_count'
+6
+>>> my_critter.poke_eye_out() # the parentheses make this a call to a method
+>>> my_critter.eye_count
+5
+```
 
 **Note** methods are often used to manage values for an object after it is instantiated. We might give an account object a nice balance when we create a new account (object), then use methods to 
 ### Overriding
