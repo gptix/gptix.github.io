@@ -25,6 +25,8 @@ Code can be checked for compliance with PEP8 in a number of ways:
 
 Then something like
 
-```$ autopep8 -v --in-place --aggressive --aggressive ~/yourpath/somecode.py cd ~/gitstuff/lambdata```
+```$ autopep8 -v --in-place --aggressive --aggressive ~/yo
+urpath/somecode.py cd ~/gitstuff/lambdata```
 
 can be used.
+
