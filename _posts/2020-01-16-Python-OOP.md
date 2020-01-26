@@ -1,8 +1,8 @@
-------------------
+---
 layout: page 
 title: Python (3) OOP
 subtitle: It's here to help!
-----------------
+---
 First, some background:
 
 # What Computers Do
