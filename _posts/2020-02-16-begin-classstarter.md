@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Classstarter
+title: classStarter
 subtitle: A test project in Common Lisp
 ---
 
 I really like Common Lisp, but I am only a hobby coder. I will create a project to learn and practice techniques and patterns for creating projects in Common Lisp.
 
-# Classstarter What Is
+# classStarter What Is
 
-Classstarter will be an auction system for a market of seats at classes at my hackerspace, [Freeside Atlanta](https://www.freesideatlanta.org/).
+classStarter will be an auction system for a market of seats at classes at my hackerspace, [Freeside Atlanta](https://www.freesideatlanta.org/).
 
-## Classstarter Where
+## classStarter Where
 
 [Classstarter, Like Kickstarter, but not for Kicks](https://github.com/gptix/classstarter)
 
