@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classstarter
-subtitle: A test project in *Common Lisp* 
+subtitle: A test project in **Common Lisp** 
 ---
 
 I really like Common Lisp, but I am only a hobby coder. I will create a project to learn and practice techniques and patterns for creating projects in Common Lisp.
