@@ -12,7 +12,7 @@ classStarter will be an auction system for a market of seats at classes at my ha
 
 ## classStarter Where
 
-[Classstarter, Like Kickstarter, but not for Kicks](https://github.com/gptix/classstarter)
+[classStarter, Like Kickstarter, but not for Kicks](https://github.com/gptix/classstarter)
 
 ## Approach
 
