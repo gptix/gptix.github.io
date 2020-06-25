@@ -126,7 +126,7 @@ For instance, if we have one hundred apples, and one hundred predictions of 'app
 
 Our tree-building algorithm should be designed to reduce impurity at each step.
 
-Here is a link to an article I found useful: https://victorzhou.com/blog/gini-impurity/
+Here is a link to an article I found useful: [https://victorzhou.com/blog/gini-impurity/](https://victorzhou.com/blog/gini-impurity/)
 
 #### Information Gain
 
@@ -134,7 +134,7 @@ This is another metric used to quantify the usefulness of a tested method of spl
 
 This meaure is 'mathy', so i will not go into it in this article.
 
-Here is a link to an article I found useful: https://victorzhou.com/blog/information-gain/
+Here is a link to an article I found useful: [https://victorzhou.com/blog/information-gain/](https://victorzhou.com/blog/information-gain/)
 
 
 ## The underlying binary tree
