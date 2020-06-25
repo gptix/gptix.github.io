@@ -38,7 +38,8 @@ The method **fit** does the work of taking a set of information about observatio
 
 Once an instance of DecisionTree exists, it can be fitted like so:
 
-```foo.fit()
+```
+foo.fit()
 ```
 
 ### The ```predict()``` method of the DecisionTree class
