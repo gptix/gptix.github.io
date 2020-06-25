@@ -50,7 +50,8 @@ The row must have exactly one value for each attribute (input column) in the dat
 
 where **my_row_of_data** is 1D array of values, aand **foo** is a DecisionTree: 
 
-```foo.predict(my_row_of_data)
+```
+foo.predict(my_row_of_data)
 ```
 
 The value returned will be a Python dict, with key / value pairs with 
