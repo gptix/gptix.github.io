@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Urbit and Hoon
-subtitle: Escape the Ologopoly - Move to Urbit.
+subtitle: Escape the Oligopoly - Move to Urbit.
 ---
 
 Urbit is a clean-slate approach to computing, with an integrated stack from a single function, Nock, a programming language, Hoon, and operating system, Arvo. Virtual computers with permanent identities recorded on the Ethereum blockchain communicate via encrypted traffic over a network to other 'ships', be they 'planets', 'stars', 'galaxies', or 'comets'.
