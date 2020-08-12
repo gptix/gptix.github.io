@@ -23,12 +23,14 @@ The other columns must be the attributes whose values are used to predict the va
 
 where **automobile_data** is an array:
 
-```foo = DecisionTree(automobile_data)```
+```foo = DecisionTree(automobile_data)
+```
 
 
 Optionally, a list of column names can be passed via the parameter **colnames**.  No use of this is currently implemented.
 
-```foo = DecisionTree(automobile_data, colnames = my_list_of_column_names)```
+```foo = DecisionTree(automobile_data, colnames = my_list_of_column_names)
+```
 
 ### The ```fit()``` method of the DecisionTree class
 
@@ -36,7 +38,9 @@ The method **fit** does the work of taking a set of information about observatio
 
 Once an instance of DecisionTree exists, it can be fitted like so:
 
-```foo.fit()```
+```
+foo.fit()
+```
 
 ### The ```predict()``` method of the DecisionTree class
 
@@ -46,7 +50,9 @@ The row must have exactly one value for each attribute (input column) in the dat
 
 where **my_row_of_data** is 1D array of values, aand **foo** is a DecisionTree: 
 
-```foo.predict(my_row_of_data)```
+```
+foo.predict(my_row_of_data)
+```
 
 The value returned will be a Python dict, with key / value pairs with 
 - the key being a possible class, and 
@@ -54,13 +60,19 @@ The value returned will be a Python dict, with key / value pairs with
 
 Simple case:
 
-```{'Apple': 1}```
+```
+{'Apple': 1}
+```
 
 Less simple cases:
 
-```{'Apple': 13}```
+```
+{'Apple': 13}
+```
 
-```{'Apple': 13 , 'Peach': 2, 'Watermelon': 1}```
+```
+{'Apple': 13 , 'Peach': 2, 'Watermelon': 1}
+```
 
 ## Explanation
 
@@ -114,7 +126,7 @@ For instance, if we have one hundred apples, and one hundred predictions of 'app
 
 Our tree-building algorithm should be designed to reduce impurity at each step.
 
-Here is a link to an article I found useful: https://victorzhou.com/blog/gini-impurity/
+Here is a link to an article I found useful: [https://victorzhou.com/blog/gini-impurity/](https://victorzhou.com/blog/gini-impurity/)
 
 #### Information Gain
 
@@ -122,7 +134,7 @@ This is another metric used to quantify the usefulness of a tested method of spl
 
 This meaure is 'mathy', so i will not go into it in this article.
 
-Here is a link to an article I found useful: https://victorzhou.com/blog/information-gain/
+Here is a link to an article I found useful: [https://victorzhou.com/blog/information-gain/](https://victorzhou.com/blog/information-gain/)
 
 
 ## The underlying binary tree
