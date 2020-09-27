@@ -33,6 +33,7 @@ See you on Mars.
 
 **~hanus-dovres**
 
+
 ---
 
 A snippet of Hoon:
@@ -52,17 +53,17 @@ A snippet of Hoon:
 ---
 Maybe of interest:
 
-Urbit Overview  https://youtu.be/M04AKTCDavc
+Urbit Overview  [https://youtu.be/M04AKTCDavc](https://youtu.be/M04AKTCDavc)
 
-Hooniversity: https://hooniversity.org/
+Hooniversity: [https://hooniversity.org/](https://hooniversity.org/)
 
-Hoon School: https://hooniversity.org/enroll/
+Hoon School: [https://hooniversity.org/enroll/](https://hooniversity.org/enroll/)
 
-Urbit / Hoon Docs: https://urbit.org/docs/reference/
+Urbit / Hoon Docs: [https://urbit.org/docs/reference/](https://urbit.org/docs/reference/)
 
-Buy a planet: https://urbit.live/
+Buy a planet: [https://urbit.live/](https://urbit.live/)
 
-Catch a comet: https://urbit.org/docs/glossary/comet/
+Catch a comet: [https://urbit.org/docs/glossary/comet/](https://urbit.org/docs/glossary/comet/)
 
 Tlon: https://tlon.io/
 
