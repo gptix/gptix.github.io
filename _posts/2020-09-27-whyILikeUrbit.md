@@ -65,7 +65,7 @@ Buy a planet: [https://urbit.live/](https://urbit.live/)
 
 Catch a comet: [https://urbit.org/docs/glossary/comet/](https://urbit.org/docs/glossary/comet/)
 
-Tlon: https://tlon.io/
+Tlon: [https://tlon.io/](https://tlon.io/)
 
 Once you get on Urbit, join:
 
