@@ -23,7 +23,7 @@ The Urbit operating system is **Arvo**.  It is written in **Hoon**, a functional
 
 Learning Hoon is enjoyable and rewarding, and can be used to make real applications that run on your planet, and across the Hooniverse, such as via the Web interface **Landscape**.
 
-Exploring Urbit and the Hooniverse is like blueshifting your conventional take. You will learn of **gates**, **wings**, **arms**, **legs**, **faces**, **tapes**, **cords** and **runes**. You will learn to pronounce **$** as **buc**, and **|=** as **bartis** and **^-** as **kethep** and **@p** as **pat P**.  For good reasons.
+Exploring Urbit and the Hooniverse is like blueshifting your conventional take. You will learn of **gates**, **wings**, **arms**, **legs**, **faces**, **tapes**, **cords** and **runes**. You will learn to pronounce **$** as **buc**, and **\|=** as **bartis** and **^-** as **kethep** and **@p** as **pat P**.  For good reasons.
 
 You will meet great people.
 
