@@ -29,9 +29,9 @@ You will meet great people.
 
 It's never to soon to start learning Hoon.
 
-See you on Mars.
+See you up on Mars.
 
-**~hanus-dovres**
+**~habnus-dovres**
 
 
 ---
