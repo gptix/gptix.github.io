@@ -19,6 +19,16 @@ I believe any number can stand in the place of **e** in the formula for this fun
 
 ## Hoon Code
 
+# I found a bug.  Do not use this code in Production.
+
+The steps of including code from other files, and calling gates from included code, is correct.
+
+The problem seems to be in exp:lazytrig.  It seems to work for negative integers from -1 to -9, but hangs with -10.
+
+I'm looking into it.
+
+FWIW.
+
 ```
 /+  lazytrig  :: From ~lagrev-nocfep, https://github.com/sigilante/lazytrig
 |%
