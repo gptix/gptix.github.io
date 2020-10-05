@@ -7,6 +7,7 @@ subtitle: Some Data Science
 ## *'The'* Sigmoid Function
 
 A standard function in data science is the sigmoid function: 
+
 **`sigmoid(z) = 1 / (1 + e^-z)`**`.
 
 This function will:
