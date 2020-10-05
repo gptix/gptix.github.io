@@ -6,12 +6,13 @@ subtitle: Some Data Science
 
 ## *'The'* Sigmoid Function
 
-A standard function in data science is the sigmoid function: **`sigmoid(z) = 1 / (1 + e^-z)`**`.
+A standard function in data science is the sigmoid function: 
+**`sigmoid(z) = 1 / (1 + e^-z)`**`.
 
 This function will:
 - as **z** approaches infinity, asymptotically approach **1**;
 - as **z** approaches negative infinity, approach **0**; and
-- be **0.5** if z is *0*.
+- be **0.5** if **z** is *0*.
 
 I believe any number can stand in the place of **e** in the formula for this function, and the three results above will be enjoyed. However, the smaller that number, the more slowly the result will approach limits.
 
@@ -122,6 +123,8 @@ Hoon is a functional, typed language. Using Hoon, we can write **gates** that ca
 
 ---
 ## Maybe of interest:
+
+My code: [https://github.com/gptix/hoon/tree/master/libs](https://github.com/gptix/hoon/tree/master/libs)
 
 Urbit Overview  [https://youtu.be/M04AKTCDavc](https://youtu.be/M04AKTCDavc)
 
