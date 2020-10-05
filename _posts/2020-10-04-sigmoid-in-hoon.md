@@ -58,7 +58,7 @@ I'd be daft to risk my home planet on sketchy code.
 
 ### Save code in your **pier**
 
-Save **lazytrig.hoon** (created by **~lagrev-nocfep**, and available at https://github.com/sigilante/lazytrig) in the **/lib/** directory of your pier.
+Save **lazytrig.hoon** (created by **~lagrev-nocfep**, and available at [https://github.com/sigilante/lazytrig](https://github.com/sigilante/lazytrig)) in the **/lib/** directory of your pier.
 
 Save the code above in some **foo.hoon** file, also in **/lib/**.
 
