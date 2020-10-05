@@ -20,7 +20,7 @@ I believe any number can stand in the place of **e** in the formula for this fun
 ## Hoon Code
 
 ```
-/+  lazytrig  :: From **~lagrev-nocfep**, https://github.com/sigilante/lazytrig
+/+  lazytrig  :: From ~lagrev-nocfep, https://github.com/sigilante/lazytrig
 |%
 ++  e-to-the
   :: Helper function to keep final function neater.
