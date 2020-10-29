@@ -10,10 +10,10 @@ WEDNESDAY, 11 November 2020 (Dog Day in Japan: in Japan, dogs say 'wan!'; 11/11 
 
 Online
 
-Youtube:  
+Youtube:
 <https://www.youtube.com/channel/UCYg6qFXDE5SGT_YXhuJPU0A>
 
-Hangouts:  
+Hangouts:
 <https://hangouts.google.com/call/J3AJXibg29EbgiNZriH0ACEE>
 
 This will be the first of a series of talks about how to use Hy.
