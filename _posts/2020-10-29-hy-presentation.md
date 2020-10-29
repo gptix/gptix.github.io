@@ -14,7 +14,6 @@ Youtube:
 <https://www.youtube.com/channel/UCYg6qFXDE5SGT_YXhuJPU0A>
 
 Hangouts: 
-
 <https://hangouts.google.com/call/J3AJXibg29EbgiNZriH0ACEE>
 
 This will be the first of a series of talks about how to use Hy.
@@ -23,9 +22,9 @@ This will be the first of a series of talks about how to use Hy.
 
 The Hy language allows programmers to code in a fully functional language: Hy (of course).
 
-    'Hy is a Lisp that compiles to valid Python AST, compiles, runs based on that.'
+    'Hy is a Lisp that compiles to valid Python AST, compiles, runs that.'
     
-    'Python also       compiles to valid Python AST, compiles, runs based on that.'
+    'Python also       compiles to valid Python AST, compiles, runs that.'
 
 **See that?**
 
